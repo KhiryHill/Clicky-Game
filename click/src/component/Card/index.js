@@ -1,6 +1,6 @@
 import React from "react";
-
-function CharacterCard(props) {
+import "./card.css"
+function Card(props) {
     return (
         <div className="card" onClick={() => props.clickPic(props.id)}>
             <div className="img-container">
@@ -10,4 +10,4 @@ function CharacterCard(props) {
     )
 }
 
-export default CharacterCard;
+export default Card;
