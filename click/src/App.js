@@ -23,7 +23,7 @@ class App extends Component {
     }
     else {
       this.setState({
-        chosenArray: this.state.chosenArray.push([id]),
+        chosenArray: this.state.chosenArray.concat([id]),
         score: this.state.score + 1,
         alertMessage: "Correct!",
         shakeit: false
