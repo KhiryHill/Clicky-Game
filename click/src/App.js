@@ -29,32 +29,47 @@ class App extends Component {
         shakeit: false
       });
     }
-    if(this.state.score > this.state.highscore){
-      this.setState({highscore: this.state.score})
-      console.log({highscore: this.state.score})
+    if (this.state.score > this.state.highscore) {
+      this.setState({ highscore: this.state.score })
+      console.log({ highscore: this.state.score })
     }
   }
-  shuffledArray = (picArray) =>{
-    for (let i= picArray.length -1; i > 0; i--){
-      const k = Math.floor(Math.random()* (i+1));
-    [picArray[i], picArray[k]] = [picArray[k], picArray[i]]
+  shuffledArray = (picArray) => {
+    for (let i = picArray.length - 1; i > 0; i--) {
+      const k = Math.floor(Math.random() * (i + 1));
+      [picArray[i], picArray[k]] = [picArray[k], picArray[i]]
     }
     return picArray;
   }
 
   render() {
     return (
-      <Wrapper>
-        {this.state.characters.map(characters => (
-          <Card
-            id={characters.id}
-            key={characters.id}
-            name={characters.name}
-            image={characters.image}
-          />
-        ))}
-      </Wrapper>
+      <div className="App">
+        <header className="App-header">
+          <img className="App-logo" />
+          <h1 className="App-title">Welcome to Pic it and Click it!</h1>
+        </header>
+        <h3 className="App-intro">
+          <p className="score">Score: {this.state.score} | Highscore: {this.state.highscore}</p>
+        </h3>
+        <Wrapper>
+          {this.state.characters.map(characters => (
+            <Card
+              id={characters.id}
+              key={characters.id}
+              name={characters.name}
+              image={characters.image}
+            />
+          ))}
+        </Wrapper>
+        <div>
+        <footer className="footer">
+          2019
+      </footer>
+      </div>
+      </div>
     );
+
   }
 };
 
