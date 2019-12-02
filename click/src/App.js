@@ -59,6 +59,7 @@ class App extends Component {
               key={characters.id}
               name={characters.name}
               image={characters.image}
+              clickPic = {this.clickPic}
             />
           ))}
         </Wrapper>
