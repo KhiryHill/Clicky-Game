@@ -63,11 +63,6 @@ class App extends Component {
             />
           ))}
         </Wrapper>
-        <div>
-        <footer className="footer">
-          2019
-      </footer>
-      </div>
       </div>
     );
 

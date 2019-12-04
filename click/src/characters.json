@@ -12,44 +12,37 @@
     {
         "id": 3,
         "name": "Zoidberg",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Dr_John_Zoidberg.png/200px-Dr_John_Zoidberg.png",
-        "count": 0
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Dr_John_Zoidberg.png/200px-Dr_John_Zoidberg.png"
     },
     {
         "id": 4,
         "name": "Amy",
-        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/amy-wong-futurama-64.8.jpg",
-        "count":0
+        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/amy-wong-futurama-64.8.jpg"
     },
     {
         "id": 5,
         "name": "Professor",
-        "image": "http://3.bp.blogspot.com/_jON_zf57gnk/TJuo1REkewI/AAAAAAAAAB0/spkV3x1q_ko/s1600/professor.jpg",
-        "count": 0
+        "image": "http://3.bp.blogspot.com/_jON_zf57gnk/TJuo1REkewI/AAAAAAAAAB0/spkV3x1q_ko/s1600/professor.jpg"
     },
     {
         "id": 6,
         "name": "Hermes",
-        "image": "https://vignette.wikia.nocookie.net/en.futurama/images/0/0d/Hermes.png/revision/latest?cb=20170719011119",
-        "count":0
+        "image": "https://vignette.wikia.nocookie.net/en.futurama/images/0/0d/Hermes.png/revision/latest?cb=20170719011119"
     },
     {
         "id": 7,
         "name": "Zapp",
-        "image": "https://theinfosphere.org/images/d/d8/Zapp_promo.png",
-        "count":0
+        "image": "https://theinfosphere.org/images/d/d8/Zapp_promo.png"
     },
     {
         "id": 8,
         "name": "Kif",
-        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/kif-kroker-futurama-the-beast-with-a-billion-backs-8.01.jpg",
-        "count":0
+        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/kif-kroker-futurama-the-beast-with-a-billion-backs-8.01.jpg"
     },
     {
         "id": 9,
         "name": "Nibbler",
-        "image": "https://immatureteddybear.files.wordpress.com/2015/10/images-1.jpg",
-        "count":0
+        "image": "https://immatureteddybear.files.wordpress.com/2015/10/images-1.jpg"
     },
     {
         "id": 10,
@@ -59,14 +52,22 @@
     {
         "id": 11,
         "name":"Mom",
-        "image":"https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/mom-futurama-34.1.jpg",
-        "count":0
+        "image":"https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/mom-futurama-34.1.jpg"
     },
     {
         "id": 12,
         "name": "Robot devil",
-        "image":"https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/robot-devil-futurama-the-beast-with-a-billion-backs-10.8.jpg",
-        "count":0
+        "image":"https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/robot-devil-futurama-the-beast-with-a-billion-backs-10.8.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Scruffy",
+        "image": "https://vignette.wikia.nocookie.net/inkagames-english/images/1/10/Scruffy.png/revision/latest?cb=20161205130758"
+    },
+    {
+        "id": 14,
+        "name": "Clamps",
+        "image":"https://gamepedia.cursecdn.com/futuramaworldsoftomorrow_gamepedia_en/1/17/Clamps.png"
     }
 
 ]
