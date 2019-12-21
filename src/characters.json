@@ -17,8 +17,8 @@
     {
         "id": 4,
         "name": "Amy",
-        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/amy-wong-futurama-64.8.jpg"
-    },
+        "image":"https://theinfosphere.org/images/2/21/Amy_promo.png"
+   },
     {
         "id": 5,
         "name": "Professor",
@@ -37,12 +37,12 @@
     {
         "id": 8,
         "name": "Kif",
-        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/kif-kroker-futurama-the-beast-with-a-billion-backs-8.01.jpg"
+        "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11/114183/6666050-%24.png"
     },
     {
         "id": 9,
         "name": "Nibbler",
-        "image": "https://immatureteddybear.files.wordpress.com/2015/10/images-1.jpg"
+        "image": "https://gamepedia.cursecdn.com/futuramaworldsoftomorrow_gamepedia_en/1/1f/Nibbler.png"
     },
     {
         "id": 10,
@@ -52,12 +52,12 @@
     {
         "id": 11,
         "name":"Mom",
-        "image":"https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/mom-futurama-34.1.jpg"
+        "image":"https://gamepedia.cursecdn.com/futuramaworldsoftomorrow_gamepedia_en/0/08/Motherly_Mom.png"
     },
     {
         "id": 12,
         "name": "Robot devil",
-        "image":"https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/robot-devil-futurama-the-beast-with-a-billion-backs-10.8.jpg"
+        "image":"https://gamepedia.cursecdn.com/futuramaworldsoftomorrow_gamepedia_en/0/0b/RobotDevil.png"
     },
     {
         "id": 13,
