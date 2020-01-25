@@ -4,7 +4,7 @@ This is my React click game. The object of the game is to click all the card wit
 
 ______________________________________________________________________
 # Images
-<img alt='Click or Pic' src='C:\Users\khiry\Clicky-Game\image\Untitled presentation (3).jpg'>
+<img alt='Click or Pic' src='image\Untitled presentation (3).jpg'
 
 ______________________________________________________________________
 
